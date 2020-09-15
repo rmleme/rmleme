@@ -12,5 +12,5 @@ Enthusiast of emerging technologies and agile methodologies of software developm
 ### Experience (*last 3*)
 
 * [Guiabolso](https://www.guiabolso.com.br/) (current)
-* [Fiserv/Software Express](https://www.softwareexpress.com.br/)
+* [Fiserv](https://www.softwareexpress.com.br/)
 * [Decolar.com](https://www.decolar.com/)
