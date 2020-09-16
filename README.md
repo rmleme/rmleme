@@ -14,3 +14,7 @@ Enthusiast of emerging technologies and agile methodologies of software developm
 * [Guiabolso](https://www.guiabolso.com.br/) (current)
 * [Fiserv](https://www.softwareexpress.com.br/)
 * [Decolar.com](https://www.decolar.com/)
+
+### Articles
+
+ * [My two cents on innovation](https://www.linkedin.com/pulse/sobre-inova%C3%A7%C3%A3o-rodrigo-leme)
