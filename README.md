@@ -12,7 +12,7 @@ Enthusiast of emerging technologies and agile methodologies of software developm
 ### Experience (*last 3*)
 
 * [PicPay](https://www.picpay.com/)/[Guiabolso](https://www.guiabolso.com.br/) (current)
-* [Fiserv](https://www.softwareexpress.com.br/)
+* [Fiserv](https://www.fiserv.com.br/)/[Software Express](https://www.softwareexpress.com.br/)
 * [Decolar.com](https://www.decolar.com/)
 
 ### Articles
