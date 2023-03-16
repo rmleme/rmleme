@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-Master's degree in Computer Engineering, with 15+ years of experience in software development, having worked at start-ups as well as at huge global companies.
+Master's degree in Computer Engineering, with 20+ years of experience in software development, having worked at start-ups as well as at huge global companies.
 
 Enthusiast of emerging technologies and agile methodologies of software development. Containers, cloud computing and microservices, among others, are current topics of interest.
 
