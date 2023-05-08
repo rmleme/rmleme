@@ -11,7 +11,7 @@ Enthusiast of emerging technologies and agile methodologies of software developm
 
 ### Experience (*last 3*)
 
-* TBD (current)
+* [will bank](https://www.willbank.com.br/) (current)
 * [PicPay](https://www.picpay.com/)/[Guiabolso](https://www.guiabolso.com.br/)
 * [Fiserv](https://www.fiserv.com.br/)/[Software Express](https://www.softwareexpress.com.br/)
 
