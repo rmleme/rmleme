@@ -11,7 +11,7 @@ Enthusiast of emerging technologies and agile methodologies of software developm
 
 ### Experience (*last 3*)
 
-* [QuintoAndar](https://www.quintoandar.com.br) (current)
+* [QuintoAndar](https://www.quintoandar.com.br)
 * [will bank](https://www.willbank.com.br/)
 * [PicPay](https://www.picpay.com/)/[Guiabolso](https://www.guiabolso.com.br/)
 
