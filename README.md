@@ -11,7 +11,7 @@ Enthusiast of emerging technologies and agile methodologies of software developm
 
 ### Experience (*last 3*)
 
-* [Contabilizei[(https://www.contabilizei.com.br/)
+* [Contabilizei](https://www.contabilizei.com.br/)
 * [QuintoAndar](https://www.quintoandar.com.br)
 * [will bank](https://www.willbank.com.br/)
 
